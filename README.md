@@ -8,5 +8,5 @@ Olá! Eu sou Fernanda Pereira
 - ✉ nandabsiii@gmail.com / nandabsi@hotmail.com
 
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreluisbsi&show_icons=true&theme=dark)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandabsiii-web&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreluisbsi&layout=donut)](https://github.com/andreluisbsi/github-readme-stats)
