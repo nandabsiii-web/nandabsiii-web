@@ -10,3 +10,4 @@ Olá! Eu sou Fernanda Pereira
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nandabsiii-web&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandabsiii-web&layout=donut)](https://github.com/nandabsiii-web/github-readme-stats)
+![Snake animation](https://github.com/seu-usuario/nandabsiii-web/blob/output/snake.svg)
