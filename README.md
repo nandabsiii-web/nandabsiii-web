@@ -6,7 +6,8 @@
 - 📚 Estudando Python, SQL , HTML, CSS, JavaScript
 - 📱 Contato: (16) 99651-3932
 - ✉ nandabsiii@gmail.com / nandabsi@hotmail.com
-
+- 💻 https://www.linkedin.com/in/nandabsi
+  
 <div align="center">
   <a href="https://github.com/nandabsiii-web">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nandabsiii-web&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
